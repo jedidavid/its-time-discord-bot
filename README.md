@@ -11,8 +11,10 @@ A Discord bot mentioning everyone that "It's Time" to play on Friday/Saturday
 
 ### Installing
 
-- yarn || npm install
-- yarn start || npm run start
+``` 
+yarn || npm install
+yarn start || npm run start 
+```
 
 ### Deployment
 
